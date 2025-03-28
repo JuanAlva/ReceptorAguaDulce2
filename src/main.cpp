@@ -83,7 +83,7 @@ void receiveLoRaData() {
     Serial.println(receivedData);
 
     // Procesar JSON
-    StaticJsonDocument<64> doc;
+    StaticJsonDocument<128> doc;
     DeserializationError error = deserializeJson(doc, receivedData);
 
     if (!error) {
