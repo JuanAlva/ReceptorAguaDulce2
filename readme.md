@@ -16,11 +16,11 @@ Este proyecto implementa un sistema embebido basado en ESP32 para la recepción 
 
 ## Diagrama del transmisor
 
-![transmisor drawio](https://github.com/user-attachments/assets/2539979f-c50e-4245-b426-a1e045414f5d)
+![transmisor drawio(1)](https://github.com/user-attachments/assets/81eaf91b-3c63-49b2-8039-fd39d42bb535)
 
 ## Diagrama del recepto
 
-![receptor drawio](https://github.com/user-attachments/assets/91298f90-8119-4a11-b865-e81041f11f87)
+![RECEPTOR drawio(1)](https://github.com/user-attachments/assets/c1b6a8f9-fa98-4e58-8238-9369fcafe267)
 
 ## Hardware Requerido
 
